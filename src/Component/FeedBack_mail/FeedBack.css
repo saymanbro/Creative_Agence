@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.customer_div{
+  width:100%;
+  height: 350px;
+}
+.customer_div .client_1, .client_2 ,.client_3{
+    margin-left: 200px;
+}
+.customer_div img{
+    width:60px;
+}
+.customer_div h1{
+    font-weight: 500;
+    color: #171e4b;
+    margin-top: 80px;
+}
+.client_1, .client_2, .client_3{
+    border: 1px solid black;
+    width: 23%;
+    height: 30%;
+    border: 2px solid lightgray;
+    border-radius: 4px;
+    margin: 0 10px;
+}
